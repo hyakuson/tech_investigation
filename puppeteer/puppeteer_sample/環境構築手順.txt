@@ -1,0 +1,5 @@
+npm init
+New-Item main.js
+npm install puppeteer
+// edit main.js
+node main.js
